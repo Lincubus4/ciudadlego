@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom LEGO styles can go here */
+body {
+  background-color: #f0f0f0;
+}
